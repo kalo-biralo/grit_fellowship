@@ -1,0 +1,1 @@
+Contains collections of all of the assignments done during the GritFeat Fellowship of 2024 in Machine Learning.
